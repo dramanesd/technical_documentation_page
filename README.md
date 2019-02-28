@@ -1,3 +1,3 @@
-##FreeCodeCamp Project
+## FreeCodeCamp Project
 
-#Technical Documentation Page
+# Technical Documentation Page
